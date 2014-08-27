@@ -1,8 +1,0 @@
-# Note: if you're editing this file you may also want to have Eclipse ignore the same files when
-# searching or quick-opening files.  In order to do so, modify this project's (or the main viewer 
-# project's) Eclipse resource filters:
-# Right click project > Properties > Resource > Resource Filters
-.apt_generated/*
-bin/*
-gen/*
-target/*
